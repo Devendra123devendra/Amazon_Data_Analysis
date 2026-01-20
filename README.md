@@ -5,7 +5,7 @@ This repository contains a Power BI based sales dashboard that analyzes Amazon s
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="[images/amazon_dashboard.png](https://github.com/Devendra123devendra/Amazon_Data_Analysis/blob/main/Screenshot%202026-01-19%20121900.png)" alt="Amazon Sales Dashboard" width="800" />
+  <img src="Screenshot%202026-01-19%20121900.png" alt="Amazon Sales Dashboard" width="800" />
 </p>
 
 <p align="center">
